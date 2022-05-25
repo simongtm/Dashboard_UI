@@ -1,0 +1,1 @@
+export {updateLanguage} from "../Actions/IntlActions"

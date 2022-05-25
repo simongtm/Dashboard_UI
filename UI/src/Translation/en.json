@@ -1,0 +1,15 @@
+{
+    "LABEL_SIGNUP":"Sign Up",
+    "LABEL_SIGNIN":"Sign In",
+    "LABEL_ACCOUNT_EXISTS":"Already have an account? Sign in",
+    "LABEL_REPORT":"Report",
+    "LABEL_SALE_AMOUNT":"Sale Amount",
+    "LABEL_PAYMENT_METHOD":"Payment Method:",
+    "LABEL_CREATE_ACCOUNT":"Don't have an account? Sign Up",
+    "LABEL_REMEBER_ME":"Remember me",
+    "EMAIL_ERROR":"Email Id is mandatory.",
+    "LAST_NAME_ERROR":"Last Name is mandatory.",
+    "FIRST_ANME_ERROR":"First Name is mandatory.",
+    "PASSWORD_ERROR":"Password is mandatory.",
+    "EMAIL_FORMAT_ERROR":"Email format is wrong."
+}
